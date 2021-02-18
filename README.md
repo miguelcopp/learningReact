@@ -1,16 +1,13 @@
-### `BY MIGUEL COPPOLA`
+### `FIRST REACT PROJECT BY MIGUEL COPPOLA`
 ### `built in React.js using Visual Studio Code`
 
 ### `IMPORTANT`
 The project doesn't include the node_modules
-The .js files were renamed so that they can be mailed 
 
 ### `instructions`
-    1. Extract the folder from the .zip file
-    2. Change all the .txt files to .js
-    3. run --->   npm install
-    4. run --->   npm run server
-    5. run --->   npm start
+    1. run --->   npm install
+    2. run --->   npm run server
+    3. run --->   npm start
 
 ### `npm install`
 The project doesn't includes the node_module
