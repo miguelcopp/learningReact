@@ -55,9 +55,3 @@ All the exact npm commands I used
 ### `event subscription`
 The event subscription works with the localstorage
 If you reload the page all the events to which you subscribed will be checked
-
-### `highlited events`
-The requirement on highlighted events cannot be done with the current data structure
-My suggestion would be to add a highlighted attribute to the entity event
-Can be a Boolean that indicates true if the event is highlighted and false if not
-In this way you could show a Highlighted Events section and condition it based on that attribute
